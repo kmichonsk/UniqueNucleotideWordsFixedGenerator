@@ -1,5 +1,6 @@
 # Unique Words Generator
 Simple Java application, implementing non-optimal algorithm to generate fixed number (96) of unique 6 letter nucleotide words.
+Example solution can be found in the root directory of the project.
 ## How to run
 ### Dependencies
 - Maven

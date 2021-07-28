@@ -1,0 +1,196 @@
+/home/kmichonsk/.jdks/openjdk-16.0.1/bin/java -javaagent:/home/kmichonsk/programfiles/intellij/lib/idea_rt.jar=44749:/home/kmichonsk/programfiles/intellij/bin -Dfile.encoding=UTF-8 -classpath /home/kmichonsk/docs/work/cv/resolvebiosciences/target/classes org.example.App
+added(1) CGCTAC
+added(2) GTCCTG
+added(3) GCACTT
+added(4) AGATTG
+added(5) GGGCCT
+added(6) CCGACC
+added(7) CGGGTG
+added(8) TGAGTA
+added(9) AATTAC
+added(10) TAAGAG
+added(11) TTAACA
+added(12) GCCAGC
+added(13) GACGAT
+added(14) GCTCCC
+added(15) CAAACT
+added(16) ATACGA
+added(17) GTATGC
+added(18) TTCCAT
+added(19) ATCTCC
+added(20) TAGCCG
+added(21) AGGATT
+added(22) CGTTCG
+added(23) AACCCA
+added(24) CATCAA
+added(25) GGTGTT
+added(26) ACTGGA
+added(27) TACGGA
+added(28) TCGCAA
+added(29) CAGAGG
+added(30) AGAGCT
+added(31) AACTGG
+added(32) GCTTAT
+added(33) GCGAAG
+added(34) GAGGTA
+added(35) TTGTAC
+added(36) TCGTCT
+added(37) AGCCGC
+added(38) CTGCTA
+added(39) CTTCGG
+added(40) CATTTT
+added(41) AATGCG
+added(42) GATCGT
+added(43) CCAGTC
+added(44) ACATGT
+added(45) GAATCA
+added(46) CCCGCG
+added(47) TATAGC
+added(48) CGTAGA
+added(49) TGCATG
+added(50) TCACGC
+added(51) CCCATA
+added(52) ATCAGT
+added(53) GGACAA
+added(54) ATGGGG
+added(55) AAGAAA
+added(56) ACAAAC
+added(57) TGGTGG
+added(58) CGCCTT
+added(59) GGCGCA
+added(60) TTTGTC
+added(61) ACTCAG
+added(62) GCGTGA
+added(63) GACACG
+added(64) GGGGAC
+added(65) TGAAGT
+added(66) AACATC
+added(67) CTACAC
+added(68) GTTTTA
+added(69) TGATCC
+added(70) GTAAAT
+added(71) TCCGAC
+added(72) ACCTAA
+added(73) ACTACT
+added(74) GTTGAG
+added(75) ATTATG
+added(76) CCATAG
+added(77) GCAGGG
+added(78) CAACTG
+added(79) CTGGAT
+added(80) AAACAT
+added(81) ACGTTC
+added(82) TCTTTG
+added(83) AAAGGC
+added(84) CCACCA
+added(85) TGTCAC
+added(86) AGGTCA
+added(87) GTGATC
+added(88) GGCTGT
+added(89) ATCGTA
+added(90) CCGCGT
+added(91) CTCTGA
+added(92) TTTTGT
+added(93) AGTCTA
+added(94) GTGTCG
+added(95) CCTTGC
+added(96) CTCAAG
+ACTACT
+ACGTTC
+TTCCAT
+ATACGA
+GCACTT
+CCCGCG
+GGACAA
+CGTAGA
+CCCATA
+CCGCGT
+AGCCGC
+CCTTGC
+CAGAGG
+AATGCG
+CTGGAT
+GGCGCA
+GCTCCC
+GCAGGG
+GATCGT
+GTGTCG
+CGCCTT
+TGATCC
+GCGTGA
+CTTCGG
+TGCATG
+GGGCCT
+TAGCCG
+TACGGA
+CATCAA
+TGTCAC
+GGTGTT
+GCGAAG
+TCGTCT
+GTAAAT
+GTCCTG
+CTACAC
+GTTGAG
+GACGAT
+CGTTCG
+ATCGTA
+AACTGG
+CTGCTA
+TAAGAG
+ACTCAG
+GTTTTA
+AGTCTA
+AAGAAA
+ACATGT
+CCGACC
+TTTGTC
+AAAGGC
+AACCCA
+TCGCAA
+CCACCA
+AGGTCA
+GACACG
+TCACGC
+ACCTAA
+TCTTTG
+CATTTT
+GGCTGT
+AGAGCT
+GGGGAC
+TCCGAC
+ATCAGT
+CCAGTC
+TTGTAC
+TGAGTA
+GTATGC
+CCATAG
+ACAAAC
+TGAAGT
+ATGGGG
+GTGATC
+GCCAGC
+TGGTGG
+ATTATG
+AATTAC
+TATAGC
+CTCAAG
+CAAACT
+AAACAT
+CTCTGA
+CGGGTG
+CGCTAC
+TTAACA
+ACTGGA
+ATCTCC
+GCTTAT
+GAATCA
+AACATC
+TTTTGT
+AGGATT
+CAACTG
+GAGGTA
+AGATTG
+
+Process finished with exit code 0
+
