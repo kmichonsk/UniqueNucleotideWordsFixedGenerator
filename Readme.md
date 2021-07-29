@@ -11,5 +11,5 @@ Example solution can be found in the root directory of the project.
 `mvn exec:java -Dexec.mainClass="org.example.App"`
 
 ## TODO
-- [ ] Optimize algorithm (app tends to get stuck after reaching higher values)
+- [ ] Optimize algorithm (app uses naive approach with deadlock protection)
 
