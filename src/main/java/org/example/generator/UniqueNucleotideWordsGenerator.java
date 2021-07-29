@@ -1,7 +1,7 @@
 package org.example.generator;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.Stream;
 
@@ -17,23 +17,23 @@ public class UniqueNucleotideWordsGenerator {
                 "this should be used as an utility class!");
     }
 
-    public static Set<String> generateUniqueNucleotideWords(int numberOfWordsToGenerate) {
-        final var set = new HashSet<String>();
+    public static List<String> generateUniqueNucleotideWords(int numberOfWordsToGenerate) {
+        final var list = new ArrayList<String>(numberOfWordsToGenerate);
 
-        while (set.size() < numberOfWordsToGenerate) {
+        while (list.size() < numberOfWordsToGenerate) {
             final var word = generateRandomNucleotideWord();
-            if (!containsOrAlreadyContainsTooSimilar(set, word)) {
-                set.add(word);
-                System.out.println("added(" + set.size() + ") " + word);
+            if (!containsTooSimilar(list, word)) {
+                list.add(word);
+                System.out.println("added(" + list.size() + ") " + word);
             }
         }
 
-        return set;
+        return list;
     }
 
-    private static boolean containsOrAlreadyContainsTooSimilar(Set<String> set, String nucleotide) {
-        return set.contains(nucleotide) || set.stream()
-                .anyMatch(setNucleotide -> !meetDifferenceCriteria(setNucleotide, nucleotide));
+    private static boolean containsTooSimilar(List<String> list, String nucleotide) {
+        return list.stream()
+                .anyMatch(listNucleotide -> !meetDifferenceCriteria(listNucleotide, nucleotide));
     }
 
     public static boolean meetDifferenceCriteria(String first, String second) {
